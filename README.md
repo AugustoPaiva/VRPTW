@@ -7,7 +7,7 @@ Changes made:
 	-It's a multi Objective solution
 	-Best Cost Route Crossover as a crossover
 	-Evaluating 2 objectives
-	-Mutatition 
+	-Mutation 
   
 ## Reference for the code solution
 
