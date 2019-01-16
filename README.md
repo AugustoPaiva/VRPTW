@@ -1,5 +1,5 @@
 # VRPTW
-## A Vehicle routing problem witht Time window(VRPTW) solution
+## A Vehicle routing problem with Time window(VRPTW) solution
 
 Solution build with Python and Deap
 This solution is a modification from the py-ga-VRPTW repository(https://github.com/iRB-Lab/py-ga-VRPTW)
