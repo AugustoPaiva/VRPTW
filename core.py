@@ -240,7 +240,7 @@ def gaVRPTW(instName, unitCost, initCost, waitCost, indSize, popSize, cxPb, mutP
             txt.write('Custo total: ' +  str(pop[i].fitness.values[0]))
             txt.write('\n'+'-'*100 + '\n'*2)
     
-    txt.close()
+    #txt.close()
     print('FIM')
         #print('Fitness: (%s,%s)' % (i.fitness.values[0],i.fitness.values[1]))
     # print('Best individual: %s' % bestInd)
